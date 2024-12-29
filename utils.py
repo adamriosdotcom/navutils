@@ -121,5 +121,4 @@ def create_animated_map(df, fps=2, video_filename='animated_map.mp4'):
 
     plt.close(fig)  # Close the figure to free memory
     
-    
-# testing 
+##testing - need to delete this
